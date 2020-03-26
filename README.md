@@ -16,7 +16,7 @@
    
    style.css: [GitHub](http://github.com)
   ## Примеры работы
-    Папка со скриншотами работы программы: [GitHub](http://github.com)
+   Папка со скриншотами работы программы: [GitHub](http://github.com)
     
  # Домашние задание №3
   ## Условие
@@ -28,5 +28,5 @@
    
    send_post.php: [GitHub](http://github.com)
   ## Примеры работы
-    Папка со скриншотами работы программы: [GitHub](http://github.com)
+   Папка со скриншотами работы программы: [GitHub](http://github.com)
     
