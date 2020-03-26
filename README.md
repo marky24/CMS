@@ -10,23 +10,23 @@
   ## Условие
   Реализовать с помощью изученных технологий записную книжку в которую можно добавить телефонный номер, имя и фамилию. Добавленная информация должна отобразиться в области окна браузера. Рядом с каждой записью должна быть кнопка для удаления.
   ## Решение
-   index.html: https://www.google.com
+   [index.html](https://github.com/marky24/CMS/blob/master/1st_dz/index.html)
    
-   functions.js: [GitHub](http://github.com)
+   [functions.js](https://github.com/marky24/CMS/blob/master/1st_dz/functions.js)
    
-   style.css: [GitHub](http://github.com)
+   [style.css](https://github.com/marky24/CMS/blob/master/1st_dz/style.css)
   ## Примеры работы
-   Папка со скриншотами работы программы: [GitHub](http://github.com)
+   [Папка со скриншотами работы программы](https://github.com/marky24/CMS/tree/master/1st_dz/photos)
     
  # Домашние задание №3
   ## Условие
    Доработать скрипт записной книжки таким образом, чтобы он добавлял и удалял строки из базы        данных. Реализовать удаление и создание таблицы по нажатиям на соответствующие кнопки.
   ## Решение
-   index.php: [I'm an inline-style link](https://www.google.com)
+   [index.php](https://github.com/marky24/CMS/blob/master/2d_dz/index.php)
    
-   delete_post.php: [GitHub](http://github.com)
+   [delete_post.php](https://github.com/marky24/CMS/blob/master/2d_dz/delete_post.php)
    
-   send_post.php: [GitHub](http://github.com)
+   [send_post.php](https://github.com/marky24/CMS/blob/master/2d_dz/send_post.php)
   ## Примеры работы
-   Папка со скриншотами работы программы: [GitHub](http://github.com)
+   [Папка со скриншотами работы программы](https://github.com/marky24/CMS/tree/master/2d_dz/photos)
     
