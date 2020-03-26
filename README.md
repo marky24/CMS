@@ -10,9 +10,9 @@
   ## Условие
   Реализовать с помощью изученных технологий записную книжку в которую можно добавить телефонный номер, имя и фамилию. Добавленная информация должна отобразиться в области окна браузера. Рядом с каждой записью должна быть кнопка для удаления.
   ## Решение
-    index.html: https://www.google.com
-    functions.js: [GitHub](http://github.com)
-    style.css: [GitHub](http://github.com)
+   index.html: https://www.google.com
+   functions.js: [GitHub](http://github.com)
+   style.css: [GitHub](http://github.com)
   ## Примеры работы
     Папка со скриншотами работы программы: [GitHub](http://github.com)
     
