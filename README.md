@@ -42,7 +42,9 @@
 Вашим домашним заданием будет найти какой-то шаблон сайта в интернете (картинку) и сверстать ее с использованием пройденных технологий. Задание достаточно большое, поэтому за его успешное выполнение баллы будут зачислены за работу в классе и за домашнее задание.
   ## Решение
 За образец сайта был взят https://angel.co/. Верстка сделана с помощью bootstrap gird
+
 [header.php](https://github.com/marky24/CMS/blob/master/4dz/header.php)
+
 [index.php](https://github.com/marky24/CMS/blob/master/4dz/index.php)
   ## Примеры работы 
-    [фото](https://github.com/marky24/CMS/blob/master/4dz/rDTUTgDBeGM.jpg)
+   [фото](https://github.com/marky24/CMS/blob/master/4dz/rDTUTgDBeGM.jpg)
