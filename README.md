@@ -47,4 +47,5 @@
 
 [index.php](https://github.com/marky24/CMS/blob/master/4dz/index.php)
   ## Примеры работы 
+   http://167.71.33.202/ - ссылка на сайт
    [фото](https://github.com/marky24/CMS/blob/master/4dz/rDTUTgDBeGM.jpg)
