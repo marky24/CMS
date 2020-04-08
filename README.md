@@ -17,6 +17,8 @@
    [style.css](https://github.com/marky24/CMS/blob/master/1st_dz/style.css)
   ## Примеры работы
    [Папка со скриншотами работы программы](https://github.com/marky24/CMS/tree/master/1st_dz/photos)
+   
+   http://167.71.33.202/1st_dz - ссылка на сайт
     
  # Домашние задание №3
   ## Условие
@@ -29,6 +31,8 @@
    [send_post.php](https://github.com/marky24/CMS/blob/master/2d_dz/send_post.php)
   ## Примеры работы
    [Папка со скриншотами работы программы](https://github.com/marky24/CMS/tree/master/2d_dz/photos)
+   
+   http://167.71.33.202/2d_dz - ссылка на сайт
     
  # Домашние задание №4
   ## Условие
@@ -47,6 +51,6 @@
 
 [index.php](https://github.com/marky24/CMS/blob/master/4dz/index.php)
   ## Примеры работы 
-   http://167.71.33.202/ - ссылка на сайт
+   http://167.71.33.202/4d_dz - ссылка на сайт
    
    [фото](https://github.com/marky24/CMS/blob/master/4dz/rDTUTgDBeGM.jpg)
