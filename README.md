@@ -65,8 +65,3 @@
 * Добавлена регистрация стилей в WordPress 
 
 [Папка с темой](https://github.com/marky24/CMS/blob/master/6dz)
-
-  ## Примеры работы 
-   http://167.71.33.202/6dz - ссылка на сайт
-   
-   [фото](https://github.com/marky24/CMS/blob/master/4dz/rDTUTgDBeGM.jpg)
